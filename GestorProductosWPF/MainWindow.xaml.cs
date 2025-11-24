@@ -1,0 +1,1 @@
+namespace GestorProductosWPF { public partial class MainWindow {} }
